@@ -1,0 +1,20 @@
+ .testing{
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    border-style: solid; 
+/* border-style: double; */
+/* border-style: groove; */
+/* border-style: inset; */
+/* border-style: outset; */
+/* border-style: hidden; */
+/* border-style: solid dashed dotted double;
+border-style: solid double;
+border-style: solid double dashed; */
+
+/* border-width: thin;
+border-width: medium;
+border-width: thick;
+border-width: 40px; */
+
+border: 5px solid red;
+}
